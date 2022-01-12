@@ -7,4 +7,4 @@ Part List:
 - 5V 3A Power Adaptor with DC Jack 5.5mm
 - DC Jack Female with Terminal Adapters
 - ESP32 Dev Kit 38pin or similar
-- 
+- 5m Neopixel Strip with 30 LED per meter
