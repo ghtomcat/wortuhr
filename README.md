@@ -8,3 +8,4 @@ Part List:
 - DC Jack Female with Terminal Adapters
 - ESP32 Dev Kit 38pin or similar
 - 5m Neopixel Strip with 30 LED per meter
+- Plexiglas 87% Transparent (35x35cm, use SVG File to lasercut to final form)
