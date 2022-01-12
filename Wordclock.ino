@@ -61,7 +61,7 @@ void setup() {
   strip.setBrightness(100); // Set BRIGHTNESS to about 1/5 (max = 255)
 
   WiFi.mode(WIFI_STA);
-  WiFi.begin("", "");
+  WiFi.begin("<ssid>", "<password>");
   Serial.print("Connecting to WiFi ..");
   while (WiFi.status() != WL_CONNECTED) {
     Serial.print('.');
